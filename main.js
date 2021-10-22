@@ -5,7 +5,7 @@
       github: "rick-santana", //nome de usuario do GitHub
       youtube: "", //nome de usuario do Youtube
       facebook: "", //nome de usuario do Facebook
-      instagram: "", //nome de usuario do Instagram
+      instagram: "_rickz1_", //nome de usuario do Instagram
       twitter: "" //nome de usuario do Twitter
     }
 
