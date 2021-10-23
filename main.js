@@ -6,7 +6,7 @@
       youtube: "", //nome de usuario do Youtube
       facebook: "", //nome de usuario do Facebook
       instagram: "_rickz1_", //nome de usuario do Instagram
-      linkedin: "https://www.linkedin.com/in/henrique-santana-445357198" //nome de usuario do linkedin
+      linkedin: "in/henrique-santana-445357198" //nome de usuario do linkedin
     }
 
   function changeSocialMediaLinks(){

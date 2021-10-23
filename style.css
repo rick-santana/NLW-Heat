@@ -51,7 +51,6 @@ main{
 
   /* da o formato de poligono para a imagem "polygon(x% , y%)" --> usar a ferramenta "bennettfeely.com" como auxilio*/
   clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
-
 }
 
 h1{
@@ -80,4 +79,15 @@ ul{
   padding: 0;
   margin-top: 4rem;
   list-style: none;
+}
+
+.imgs-social-media{
+  width: 3.75rem;
+  height: 3.75rem;
+  transition: 0.5s; 
+}
+
+.imgs-social-media:hover{
+  border-radius: 20px; 
+  margin-top: -10px;
 }
