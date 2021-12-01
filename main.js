@@ -2,7 +2,7 @@
    // objeto link com todas as redes sociais
 
   const LinksSocialMedia = {
-      github: "rick-santana", //nome de usuario do GitHub
+      github: "rick-silva", //nome de usuario do GitHub
       youtube: "", //nome de usuario do Youtube
       facebook: "", //nome de usuario do Facebook
       instagram: "_rickz1_", //nome de usuario do Instagram
